@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0e5ef57b-d2ef-4987-8a1e-03e7b7fbb9ab" name="Changes" comment="grade set up">
       <change beforePath="$PROJECT_DIR$/HardRelease/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/HardRelease/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +24,11 @@
     </system>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
